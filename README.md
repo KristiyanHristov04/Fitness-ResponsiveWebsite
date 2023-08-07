@@ -1,5 +1,7 @@
 # Fitness-ResponsiveWebsite
-This is a website made with educational purposes using HTML &amp; CSS.
+This is a website made with educational purposes using HTML &amp; CSS. <br>
+<br>
+Access the website 👉 [fitnesslandingpagebg.netlify.app](https://fitnesslandingpagebg.netlify.app/)
 <br>
 <br>
 DESKTOP
