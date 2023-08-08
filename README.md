@@ -1,5 +1,5 @@
 # Fitness-ResponsiveWebsite
-This is a website made with educational purposes using HTML &amp; CSS. <br>
+This is a website made with educational purposes using HTML, CSS &amp; JS(Intersection Observer API). <br>
 <br>
 Access the website 👉 [fitnesslandingpagebg.netlify.app](https://fitnesslandingpagebg.netlify.app/)
 <br>
