@@ -7,6 +7,7 @@
 
 body {
     font-family: "PT Sans";
+    overflow-x: hidden;
 }
 
 header {
@@ -181,6 +182,52 @@ footer {
     background-color: #D01919;
     text-align: center;
     padding: 0.5rem;
+}
+
+#heroSection h1:first-of-type {
+    opacity: 0;
+    transform: translateY(50%);
+    transition: 1s all ease-out;
+}
+
+#heroSection p {
+    opacity: 0;
+    transform: translateY(50%);
+    transition: 1s all ease-out;
+}
+
+button:first-of-type {
+    opacity: 0;
+    transform: translateY(50%);
+    transition: 1s all ease-out;
+}
+
+#firstSection {
+    opacity: 0;
+    transform: translateY(50%);
+    transition: 1s all ease-out;
+}
+
+#secondSection {
+    opacity: 0;
+    transform: translateY(50%);
+    transition: 1s all ease-out;
+}
+
+.showElement {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+}
+
+#heroSection ul {
+    opacity: 0;
+    transform: translateX(50%);
+    transition: 1s all ease-out;
+}
+
+.showList {
+    opacity: 1 !important;
+    transform: translateX(0) !important;
 }
 
 @media screen and (max-width: 1300px) {
